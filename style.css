@@ -669,7 +669,7 @@
       }
   }
 
-  @media (max-width:755px) {
+  @media (max-width:600px) {
       .container {
           flex-direction: column;
           padding: 10px 0px;
